@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "baseUrl": ".",
+    "jsx": "react",
+    "moduleResolution": "Node",
+    "paths": {
+      "my-library": ["./src"]
+    },
+    "esModuleInterop": true
+  }
+}

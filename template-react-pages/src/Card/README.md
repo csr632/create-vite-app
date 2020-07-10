@@ -1,0 +1,1 @@
+This is document for **Card component**.
