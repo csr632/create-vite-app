@@ -5,7 +5,7 @@
     "jsx": "react",
     "moduleResolution": "Node",
     "paths": {
-      "my-library": ["./src"]
+      "my-lib": ["./src"]
     },
     "esModuleInterop": true
   }

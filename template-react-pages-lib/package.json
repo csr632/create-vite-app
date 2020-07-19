@@ -1,6 +1,6 @@
 {
-  "name": "my-library",
-  "description": "suppose this npm package name is 'my-library'",
+  "name": "my-lib",
+  "description": "suppose this npm package name is 'my-lib'",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite serve -c ./vite.config.ts",
@@ -24,6 +24,6 @@
     "vite-plugin-react-pages": "^0.7.0"
   },
   "demoDependencies": {
-    "my-library": "~1.0.1"
+    "my-lib": "~0.0.1"
   }
 }
