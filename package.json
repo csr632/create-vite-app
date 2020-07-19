@@ -1,6 +1,6 @@
 {
   "name": "@csr632/create-vite-app",
-  "version": "1.17.2",
+  "version": "1.17.4",
   "license": "MIT",
   "author": "Evan You",
   "main": "index.js",

@@ -2,7 +2,7 @@
 
 This is a starter project for [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages).
 
-This project demonstrate how to develop an app using [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) as framework.
+This project demonstrate how to develop a React app using [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) as framework.
 
 ## How to use
 
