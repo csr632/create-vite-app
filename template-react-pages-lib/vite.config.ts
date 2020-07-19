@@ -5,7 +5,6 @@ import mdx from 'vite-plugin-mdx'
 import * as path from 'path'
 
 module.exports = {
-  root: __dirname,
   jsx: 'react',
   plugins: [
     vpr,
@@ -56,9 +55,6 @@ module.exports = {
       return [...defaultPages, ...pages]
     })
   ],
-  optimizeDeps: {
-    link: ['vite-pages-theme-basic']
-  },
   alias: {
     'my-lib': '/src'
   },

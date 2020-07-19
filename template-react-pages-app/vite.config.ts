@@ -6,8 +6,5 @@ import mdx from 'vite-plugin-mdx'
 module.exports = {
   jsx: 'react',
   plugins: [vpr, mdx(), pages()],
-  optimizeDeps: {
-    link: ['vite-pages-theme-basic'],
-  },
-  minify: false,
+  minify: false
 } as UserConfig
