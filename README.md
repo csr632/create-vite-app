@@ -27,7 +27,8 @@ Available templates:
 - `react-ts`
 - `preact`
 - `reason-react`
-- `react-pages`
+- `react-pages-app`
+- `react-pages-lib`
 
 To scaffold with specific template:
 

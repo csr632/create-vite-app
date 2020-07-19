@@ -1,12 +1,9 @@
 {
-  "name": "@csr632/create-vite-app",
-  "version": "1.17.4",
+  "name": "create-vite-app",
+  "version": "1.17.0",
   "license": "MIT",
   "author": "Evan You",
   "main": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "bin": {
     "create-vite-app": "index.js",
     "cva": "index.js"
