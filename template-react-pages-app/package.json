@@ -16,15 +16,15 @@
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
-    "@types/react": "^16.9.43",
+    "@types/react": "^16.9.48",
     "@types/react-router-dom": "^5.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "serve": "^11.3.2",
-    "vite": "^1.0.0-rc.1",
-    "vite-pages-theme-basic": "^0.7.2",
-    "vite-plugin-mdx": "^0.3.6",
+    "vite": "^1.0.0-rc.4",
+    "vite-pages-theme-basic": "^0.9.0",
+    "vite-plugin-mdx": "^0.4.0",
     "vite-plugin-react": "^3.0.2",
-    "vite-plugin-react-pages": "^0.7.0"
+    "vite-plugin-react-pages": "^0.8.0"
   }
 }
