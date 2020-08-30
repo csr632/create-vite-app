@@ -8,6 +8,7 @@
     "build-docs-ssr": "rm -rf docs-dist && vite-pages ssr -c ./vite.config.ts && serve dist"
   },
   "dependencies": {
+    "@mdx-js/react": "^1.6.16",
     "@pika/react": "^16.13.1",
     "@pika/react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0"
@@ -16,6 +17,7 @@
     "typescript": "^4.0.2",
     "@types/react": "^16.9.48",
     "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "serve": "^11.3.2",
     "vite": "^1.0.0-rc.4",
     "vite-pages-theme-basic": "^0.9.0",
